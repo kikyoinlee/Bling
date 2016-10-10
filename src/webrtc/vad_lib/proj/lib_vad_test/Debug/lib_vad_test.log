@@ -1,0 +1,14 @@
+﻿Build started 2016/9/6 15:44:57.
+     1>Project "D:\bling\src\webrtc\vad_lib\proj\lib_vad_test\lib_vad_test.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\lib_vad_test.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\bling\src\webrtc\vad_lib\inc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\test_src\TestVAD.cpp
+         TestVAD.cpp
+     1>d:\bling\src\webrtc\vad_lib\test_src\testvad.cpp(32): error C2664: 'LoadLibraryW' : cannot convert parameter 1 from 'const char [12]' to 'LPCWSTR'
+                 Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+     1>Done Building Project "D:\bling\src\webrtc\vad_lib\proj\lib_vad_test\lib_vad_test.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.78

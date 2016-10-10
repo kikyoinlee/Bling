@@ -1,0 +1,9 @@
+﻿Build started 2016/9/4 17:44:08.
+     1>Project "D:\bling\src\webrtc\WebRTC_VAD\WebRTC_VAD.vcxproj" on node 2 (build target(s)).
+       Project file contains ToolsVersion="14.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(293,5): error MSB8010: Specified platform toolset (v90) requires Visual Studio 2008. Please make sure that Visual Studio 2008 is installed on the machine.
+     1>Done Building Project "D:\bling\src\webrtc\WebRTC_VAD\WebRTC_VAD.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.01

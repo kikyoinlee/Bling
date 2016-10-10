@@ -1,0 +1,13 @@
+﻿  spl_sqrt.c
+  resample_by_2.c
+  norm_w32.c
+  norm_u32.c
+  dot_product_with_scale.c
+  division_operations.c
+  digital_agc.c
+  copy_set_operations.c
+  analog_agc.c
+  add_sat_w16.c
+  正在生成代码...
+  TestAGC.cpp
+  WebRTC_AGC.vcxproj -> E:\TestCode\WebRTC_AECM\Debug\WebRTC_AGC.exe
